@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316425220638",
+    "project_id": "drinktrip-3167e",
+    "storage_bucket": "drinktrip-3167e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316425220638:android:4355ad088e7d7a01c2b40f",
+        "android_client_info": {
+          "package_name": "com.sohykim.drinktrip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDQfWzPSuFpnRvuEx7FhzCI-KoLrATSrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
